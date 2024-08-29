@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/simple-shopping-cart.git
+   git clone https://github.com/izzmoqbel/shoping-chart.git
    cd simple-shopping-cart
    ```
 
