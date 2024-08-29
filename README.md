@@ -117,8 +117,4 @@ The application uses the following npm packages:
 - **express-session**: Session middleware for Express.
 - **ejs**: Embedded JavaScript templating.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
