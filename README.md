@@ -122,5 +122,3 @@ The application uses the following npm packages:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-You can modify the content based on your project's specific details and any additional instructions or requirements.
